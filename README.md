@@ -12,7 +12,7 @@ Last July, Steve Curry becomes highest paid player of all-time with 201 USD mill
 
 How much does the highest paid player earn? How much does the MVP earn? These two questions are answered with plot 1. The red line represents the evolution of the best paid in the NBA, we can immediately see that they are, in this order: Steve Curry (GSW, 2017-28) and Michael Jordan (CHI, 1997 -98) who lead the rank. We can also see that the salary of the MVPs (blue line), is usually below the maximum and that only 4 times they are the best paid: Robinson (1994-95), Jordan (1997-98), O 'Neals (1999-00) and Garnette (2004-05). This ratifies the value that Jordan had and that lasted for a long time, that is to say, to have the MVP and that he be valued by its price, also remember, in both seasons (96-97 and 97-98) Jordan led Bulls to win the championship, Will Curry do the same for next season?
 
-![first figure](/images/NBA_salary-2.png)
+![first figure](/images/NBA_salary-1.png)
 
 The next topic of interest is: which team makes the largest investment per year in the entire NBA for salaries?; in plot 2 we can see two curves, the red one represents this item, we see that in 1992 Boston Celtic was the team that made the biggest investment in salaries. Similarly, we found that the largest investment in all NBA history was made by NY Knicks (126.6 M USD) recently overcome by the Cleveland Cavaliers (127.3 M USD). Also worthy of attention is what the champions teams are investing, the blue line tells us: with less investment than the greater investment you can achieve a championship. Only 4 times champion team became the most paid: The Chicago Bulls (1996-97 and 1997-98), L.A Lakers (2009-10) and Clevaland Cavaliers (2015-16).
 
