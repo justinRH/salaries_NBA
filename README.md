@@ -2,6 +2,7 @@
 ## A retrospective analysis
 ### By Reimer A. Romero H.
 
+[Spanish version](https://reimeruc.blogspot.com/2017/08/salario-de-los-jugadores-de-la-nba-un.html)
 
 Last July, Steve Curry becomes highest paid player of all-time with 201 USD million contract, which means more than 34 M USD by year, which is higher than Jordan earned in 1998 when he got it for a modest sum of 33 M USD. The salary issue will always be a controversial subject. A TV sports newscaster used these words to refer to Curry's contract: "Curry won the contract forever and ever." The next study describes how the salaries of NBA players have evolved over the past 26 years, with data scraped from [https://www.basketball-reference.com](https://www.basketball-reference.com).  Also describe the salary evolution of the MVPs, as well as what a franchise pays for the full staff of players and what the champion teams invest for the same concept: salary to the worker.
 
