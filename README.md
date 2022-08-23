@@ -9,6 +9,7 @@ Last July, Steve Curry becomes highest paid player of all-time with 201 USD mill
 <p align="center">
   <img src="/images/curry.jpg" width="350"/>
   <img src="/images/jordan2.jpg" width="320"/>
+  <img src="/images/lebron.png" width="320"/>
 </p>
 
 How much does the highest paid player earn? How much does the MVP earn? These two questions are answered with plot 1. The red line represents the evolution of the best paid in the NBA, we can immediately see that they are, in this order: Steve Curry (GSW, 2017-28) and Michael Jordan (CHI, 1997 -98) who lead the rank. We can also see that the salary of the MVPs (blue line), is usually below the maximum and that only 4 times they are the best paid: Robinson (1994-95), Jordan (1997-98), O 'Neals (1999-00) and Garnette (2004-05). This ratifies the value that Jordan had and that lasted for a long time, that is to say, to have the MVP and that he be valued by its price, also remember, in both seasons (96-97 and 97-98) Jordan led Bulls to win the championship, Will Curry do the same for next season?
