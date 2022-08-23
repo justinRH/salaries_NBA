@@ -109,8 +109,8 @@ ATL,Mookie Blaylock,1630000
 ATL,Roy Hinson,1445000
 ATL,Stacey Augmon,1400000
 ATL,Andrew Lang,1228000
-ATL,Adam Keefe,1200000
 ATL,Craig Ehlo,1200000
+ATL,Adam Keefe,1200000
 ATL,Duane Ferrell,1025000
 ATL,Doug Edwards,650000
 ATL,Paul Graham,600000
@@ -352,8 +352,8 @@ LAL,James Worthy,1800000
 LAL,Elden Campbell,1700000
 LAL,Doug Christie,1445000
 LAL,James Edwards,1300000
-LAL,Nick Van Exel,1100000
 LAL,George Lynch,1100000
+LAL,Nick Van Exel,1100000
 LAL,Anthony Peeler,910000
 LAL,Tony Smith,800000
 LAL,Kurt Rambis,400000
@@ -364,7 +364,6 @@ SAC,Mitch Richmond,2500000
 SAC,Wayman Tisdale,2333000
 SAC,Lionel Simmons,1743000
 SAC,Walt Williams,1658000
-SAC,Evers Burns,1616000
 SAC,Bobby Hurley,1616000
 SAC,Spud Webb,1567000
 SAC,Duane Causwell,1260000
@@ -374,6 +373,7 @@ SAC,Les Jepsen,504000
 SAC,Jim Les,363000
 SAC,Marty Conlon,250000
 SAC,Kurt Rambis,180000
+SAC,Evers Burns,150000
 SAC,Randy Breuer,150000
 SAC,Rod Higgins,150000
 SAC,Mike Peplowski,150000

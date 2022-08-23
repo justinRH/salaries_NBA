@@ -38,9 +38,9 @@ PHI,Brian Shaw,3400000
 PHI,Rex Walters,1625000
 PHI,Aaron McKie,1430000
 PHI,Larry Hughes,1330000
+PHI,Harvey Grant,1000000
 PHI,Rick Mahorn,1000000
 PHI,George Lynch,1000000
-PHI,Harvey Grant,1000000
 PHI,Anthony Parker,867120
 PHI,Eric Snow,846300
 PHI,Doug Overton,600000
@@ -178,8 +178,8 @@ CHH,Anthony Mason,4165000
 CHH,Bobby Phills,3480000
 CHH,Eddie Jones,2200000
 CHH,David Wesley,2160000
-CHH,Joe Wolf,1000000
 CHH,Chuck Person,1000000
+CHH,Joe Wolf,1000000
 CHH,Chucky Brown,850000
 CHH,Ricky Davis,680000
 CHH,Corey Beck,425000
@@ -243,7 +243,7 @@ SAS,Mario Elie,1750000
 SAS,Jerome Kersey,1000000
 SAS,Malik Rose,425000
 SAS,Andrew Gaze,350000
-SAS,Gerald King,287500
+SAS,Gerard King,287500
 SAS,Brandon Williams,287500
 UTA,Karl Malone,6142000
 UTA,Greg Ostertag,4333000
@@ -312,6 +312,7 @@ DEN,Kelly McCarty,287500
 VAN,Bryant Reeves,7222000
 VAN,Bobby Hurley,4030000
 VAN,Doug West,2915000
+VAN,Shareef Abdur-Rahim,2842000
 VAN,Mike Bibby,2400000
 VAN,Michael Smith,2180000
 VAN,Carl Herrera,2080000
@@ -327,9 +328,9 @@ VAN,Marcus Brown,500000
 VAN,DeJuan Wheat,350000
 VAN,J.R. Henderson,287500
 VAN,Makhtar N'Diaye,287500
-POR,Arvydas Sabonis,9000000
 POR,Damon Stoudamire,9000000
 POR,Rasheed Wallace,9000000
+POR,Arvydas Sabonis,9000000
 POR,Brian Grant,6000000
 POR,Isaiah Rider,4810000
 POR,Stacey Augmon,3200000
@@ -355,6 +356,7 @@ LAL,Corie Blount,1625000
 LAL,Kobe Bryant,1319000
 LAL,Derek Harper,1000000
 LAL,Dennis Rodman,1000000
+LAL,Magic Johnson,1000000
 LAL,Derek Fisher,795000
 LAL,J.R. Reid,780000
 LAL,Ruben Patterson,628500
@@ -366,8 +368,8 @@ PHO,Jason Kidd,6041000
 PHO,Luc Longley,4000000
 PHO,Clifford Robinson,3500000
 PHO,Rex Chapman,2800000
-PHO,Chris Morris,1000000
 PHO,Joe Kleine,1000000
+PHO,Chris Morris,1000000
 PHO,George McCloud,750000
 PHO,Pat Garrity,740000
 PHO,Horacio Llamas Grey,425000
@@ -382,8 +384,8 @@ SAC,Kevin Gamble,1645000
 SAC,Jason Williams,1460000
 SAC,Tariq Abdul-Wahad,1411000
 SAC,Vernon Maxwell,1000000
-SAC,Oliver Miller,600000
 SAC,Jon Barry,600000
+SAC,Oliver Miller,600000
 SAC,Terry Dehere,575000
 SAC,Corliss Williamson,500000
 SAC,Chris Robinson,375000

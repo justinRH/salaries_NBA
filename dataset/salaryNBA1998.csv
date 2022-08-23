@@ -147,8 +147,8 @@ CHH,Glen Rice,4702000
 CHH,Dell Curry,3660000
 CHH,Anthony Mason,3471500
 CHH,Bobby Phills,2900000
-CHH,David Wesley,1800000
 CHH,Muggsy Bogues,1800000
+CHH,David Wesley,1800000
 CHH,Matt Geiger,1402000
 CHH,Tony Delk,1000680
 CHH,J.R. Reid,650000
@@ -162,8 +162,8 @@ ATL,Ken Norman,3332000
 ATL,Mookie Blaylock,3000000
 ATL,Alan Henderson,1028400
 ATL,Ed Gray,723840
-ATL,Eldridge Recasner,326700
 ATL,Tyrone Corbin,326700
+ATL,Eldridge Recasner,326700
 ATL,Greg Anderson,272250
 ATL,Chucky Brown,272250
 ATL,Anthony Miller,272250
@@ -281,12 +281,12 @@ HOU,Charles Barkley,2250000
 HOU,Brent Price,1920000
 HOU,Kevin Willis,1800000
 HOU,Rodrick Rhodes,555900
-HOU,Matt Maloney,326700
-HOU,Randy Livingston,326700
-HOU,Eddie Johnson,326700
-HOU,Othella Harrington,326700
-HOU,Emanual Davis,326700
 HOU,Matt Bullard,326700
+HOU,Emanual Davis,326700
+HOU,Othella Harrington,326700
+HOU,Eddie Johnson,326700
+HOU,Randy Livingston,326700
+HOU,Matt Maloney,326700
 HOU,Joe Stephens,272250
 HOU,Serge Zwikker,242000
 DAL,Shawn Bradley,5940000
@@ -306,6 +306,7 @@ DAL,Kevin Ollie,272250
 DAL,Bubba Wells,260000
 DAL,Ace Custis,242000
 VAN,Otis Thorpe,5700000
+VAN,Shareef Abdur-Rahim,2513760
 VAN,Blue Edwards,2300000
 VAN,Antonio Daniels,2149920
 VAN,George Lynch,2115000
@@ -365,6 +366,7 @@ LAL,Sean Rooks,1440000
 LAL,Corie Blount,1430000
 LAL,Kobe Bryant,1167240
 LAL,Rick Fox,1000000
+LAL,Magic Johnson,1000000
 LAL,Derek Fisher,703200
 LAL,Jon Barry,272500
 LAL,Mario Bennett,272500

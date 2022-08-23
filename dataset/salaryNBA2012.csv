@@ -20,8 +20,8 @@ NYK,Chauncey Billups,12199968
 NYK,J.R. Smith,2382353
 NYK,Renaldo Balkman,1675000
 NYK,Iman Shumpert,1563120
-NYK,Baron Davis,1352181
 NYK,Mike Bibby,1352181
+NYK,Baron Davis,1352181
 NYK,Jared Jeffries,1229255
 NYK,Toney Douglas,1145640
 NYK,Steve Novak,992680
@@ -61,9 +61,9 @@ TOR,Solomon Alabi,830000
 NJN,Deron Williams,16359805
 NJN,Mehmet Okur,10890000
 NJN,Kris Humphries,8000000
-NJN,Travis Outlaw,4000000
-NJN,Anthony Morrow,4000000
 NJN,Jordan Farmar,4000000
+NJN,Anthony Morrow,4000000
+NJN,Travis Outlaw,4000000
 NJN,Johan Petro,3250000
 NJN,Brook Lopez,3076983
 NJN,Shawne Williams,3000000
@@ -112,8 +112,8 @@ MIL,Beno Udrih,6925400
 MIL,Drew Gooden,6226200
 MIL,Luc Mbah a Moute,5000000
 MIL,Mike Dunleavy,3750000
-MIL,Shaun Livingston,3500000
 MIL,Carlos Delfino,3500000
+MIL,Shaun Livingston,3500000
 MIL,Ersan Ilyasova,2541000
 MIL,Brandon Jennings,2493720
 MIL,Larry Sanders,1861920
@@ -176,10 +176,10 @@ ATL,Kirk Hinrich,8100000
 ATL,Marvin Williams,7500000
 ATL,Zaza Pachulia,4750000
 ATL,Jeff Teague,1579920
-ATL,Jerry Stackhouse,1352181
-ATL,Vladimir Radmanovic,1352181
-ATL,Tracy McGrady,1352181
 ATL,Jason Collins,1352181
+ATL,Tracy McGrady,1352181
+ATL,Vladimir Radmanovic,1352181
+ATL,Jerry Stackhouse,1352181
 ATL,Willie Green,1223166
 ATL,Jannero Pargo,1223166
 ATL,Erick Dampier,850522
@@ -275,7 +275,7 @@ UTA,Alec Burks,2020200
 UTA,Earl Watson,2000000
 UTA,Jeremy Evans,762195
 UTA,DeMarre Carroll,544331
-POR,Brandon Roy,16032144
+POR,Brandon Roy,15032144
 POR,LaMarcus Aldridge,12372000
 POR,Marcus Camby,11227250
 POR,Gerald Wallace,9500000
@@ -339,7 +339,6 @@ LAC,Travis Leslie,473604
 LAC,Trey Thompkins,473604
 LAC,Solomon Jones,280234
 LAC,Courtney Fortson,42009
-PHO,Vince Carter,18300000
 PHO,Steve Nash,11689062
 PHO,Marcin Gortat,6790640
 PHO,Grant Hill,6500000
@@ -347,6 +346,7 @@ PHO,Josh Childress,6000000
 PHO,Channing Frye,5600000
 PHO,Mickael Pietrus,5300000
 PHO,Jared Dudley,4250000
+PHO,Vince Carter,4000000
 PHO,Hakim Warrick,4000000
 PHO,Shannon Brown,3500000
 PHO,Robin Lopez,2862602
@@ -418,6 +418,7 @@ MEM,Jeremy Pargo,1000000
 MEM,Sam Young,947800
 MEM,Josh Selby,550000
 MEM,Josh Davis,314041
+MEM,Gilbert Arenas,312342
 MEM,Brian Skinner,65446
 DAL,Dirk Nowitzki,19092873
 DAL,Jason Terry,11158000

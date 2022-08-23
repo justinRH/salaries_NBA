@@ -34,8 +34,8 @@ TOR,Pascal Siakam,1196040
 TOR,Norman Powell,874636
 TOR,Fred VanVleet,543471
 TOR,Brady Heslip,56500
-TOR,E.J. Singler,50000
 TOR,Yanick Moreira,50000
+TOR,E.J. Singler,50000
 TOR,Jarrod Uthoff,50000
 NYK,Carmelo Anthony,24559380
 NYK,Derrick Rose,21323250
@@ -131,6 +131,7 @@ CLE,Edy Tavares,5145
 MIL,Greg Monroe,17100000
 MIL,Khris Middleton,15200000
 MIL,John Henson,12517606
+MIL,Miles Plumlee,12500000
 MIL,Mirza Teletovic,10500000
 MIL,Matthew Dellavedova,9607500
 MIL,Spencer Hawes,6348759
@@ -154,14 +155,14 @@ IND,Al Jefferson,10230179
 IND,Jeff Teague,8800000
 IND,Rodney Stuckey,7000000
 IND,C.J. Miles,4583450
-IND,Lance Stephenson,4000000
 IND,Lavoy Allen,4000000
+IND,Lance Stephenson,4000000
 IND,Aaron Brooks,2700000
 IND,Myles Turner,2463840
 IND,Kevin Seraphin,1800000
 IND,Jeremy Evans,1227286
-IND,Joe Young,1052342
 IND,Rakeem Christmas,1052342
+IND,Joe Young,1052342
 IND,Glenn Robinson,1050500
 IND,Georges Niang,650000
 IND,Julyan Stone,50000
@@ -199,6 +200,7 @@ DET,Stanley Johnson,2969880
 DET,Reggie Bullock,2255644
 DET,Henry Ellenson,1704120
 DET,Beno Udrih,1551659
+DET,Darrun Hilliard,874636
 DET,Michael Gbinije,650000
 DET,Aaron Gray,452059
 DET,Nikola Jovanovic,30000
@@ -221,6 +223,7 @@ WAS,Daniel Ochefu,543471
 WAS,Sheldon McClellan,543471
 WAS,Danuel House,543471
 WAS,Jarell Eddie,175000
+ATL,Dwight Howard,23180275
 ATL,Paul Millsap,20072033
 ATL,Kent Bazemore,15730338
 ATL,Ersan Ilyasova,8400000
@@ -265,6 +268,7 @@ CHO,Michael Kidd-Gilchrist,13000000
 CHO,Marvin Williams,12250000
 CHO,Kemba Walker,12000000
 CHO,Jeremy Lamb,6511628
+CHO,Marco Belinelli,6333333
 CHO,Ramon Sessions,6000000
 CHO,Cody Zeller,5318313
 CHO,Frank Kaminsky,2730000
@@ -342,7 +346,7 @@ POR,Maurice Harkless,8988764
 POR,Al-Farouq Aminu,7680965
 POR,Festus Ezeli,7400000
 POR,Ed Davis,6666667
-POR,C.J. McCollum,3219579
+POR,CJ McCollum,3219579
 POR,Noah Vonleh,2751360
 POR,Anderson Varejao,1984005
 POR,Jusuf Nurkic,1921320
@@ -372,6 +376,7 @@ DEN,Jarnell Stokes,150000
 DEN,Johnny O'Bryant,115344
 DEN,D.J. Kennedy,50000
 DEN,Nate Wolters,50000
+MIN,Ricky Rubio,13550000
 MIN,Nikola Pekovic,12100000
 MIN,Kevin Garnett,8000000
 MIN,Cole Aldrich,7643979
@@ -413,6 +418,7 @@ GSW,Cameron Jones,50000
 GSW,Elgin Cook,50000
 GSW,Scott Wood,50000
 GSW,Phil Pressey,35000
+LAC,Chris Paul,22868827
 LAC,DeAndre Jordan,21165675
 LAC,Blake Griffin,20140838
 LAC,Jamal Crawford,13253012
@@ -421,8 +427,8 @@ LAC,J.J. Redick,7377500
 LAC,Wesley Johnson,5628000
 LAC,Paul Pierce,3500000
 LAC,Luc Mbah a Moute,2203000
-LAC,Brandon Bass,1551659
 LAC,Raymond Felton,1551659
+LAC,Brandon Bass,1551659
 LAC,Marreese Speights,1403611
 LAC,Alan Anderson,1315448
 LAC,Brice Johnson,1273920
@@ -448,8 +454,8 @@ SAC,Ty Lawson,1315448
 SAC,Skal Labissiere,1188840
 SAC,Wayne Ellington,923670
 SAC,Caron Butler,517220
-SAC,Lamar Patterson,100000
 SAC,Isaiah Cousins,100000
+SAC,Lamar Patterson,100000
 SAC,Jordan Farmar,82979
 LAL,Luol Deng,18000000
 LAL,Timofey Mozgov,16000000
@@ -506,8 +512,8 @@ SAS,Livio Jean-Charles,1188840
 SAS,Dejounte Murray,1180080
 SAS,Jonathon Simmons,874636
 SAS,Joel Anthony,663810
-SAS,Davis Bertans,543471
 SAS,Bryn Forbes,543471
+SAS,Davis Bertans,543471
 SAS,Nicolas Laprovittola,210995
 SAS,Patricio Garino,100000
 SAS,Ryan Arcidiacono,75000
@@ -515,10 +521,14 @@ HOU,James Harden,26540100
 HOU,Ryan Anderson,18735364
 HOU,Eric Gordon,12385364
 HOU,Trevor Ariza,7806971
+HOU,Lou Williams,7000000
+HOU,Patrick Beverley,6000000
 HOU,Nene Hilario,2898000
+HOU,Sam Dekker,1720560
 HOU,Marcelo Huertas,1500000
 HOU,Clint Capela,1296240
 HOU,Pablo Prigioni,1050961
+HOU,Montrezl Harrell,1045000
 HOU,Bobby Brown,934293
 HOU,Chinanu Onuaku,543471
 HOU,Gary Payton,543471
@@ -542,6 +552,7 @@ MEM,JaMychal Green,980431
 MEM,Andrew Harrison,945000
 MEM,Toney Douglas,603558
 MEM,Troy Williams,543471
+MEM,Jamaal Franklin,163296
 MEM,Wayne Selden,83119
 MEM,D.J. Stephens,35000
 MEM,Matt Costello,31500
@@ -556,6 +567,7 @@ NOP,Alexis Ajinca,4600000
 NOP,Quincy Pondexter,3617978
 NOP,Omri Casspi,3000000
 NOP,Dante Cunningham,2978250
+NOP,Tim Frazier,2090000
 NOP,Alonzo Gee,1400000
 NOP,Lance Stephenson,1227286
 NOP,Terrence Jones,1050961
@@ -580,11 +592,12 @@ DAL,Devin Harris,4228000
 DAL,J.J. Barea,4096950
 DAL,Seth Curry,2898000
 DAL,Quincy Acy,1050961
+DAL,DeAndre Liggins,1015696
 DAL,Salah Mejri,874636
 DAL,Jonathan Gibson,680937
 DAL,A.J. Hammons,650000
-DAL,Nicolas Brussino,543471
 DAL,Dorian Finney-Smith,543471
+DAL,Nicolas Brussino,543471
 DAL,Maurice Ndour,437318
 DAL,Gal Mekel,315760
 DAL,Yogi Ferrell,239767
@@ -592,6 +605,6 @@ DAL,Manny Harris,119494
 DAL,Pierre Jackson,105498
 DAL,Kyle Collinsworth,70000
 DAL,Jarrod Uthoff,63938
-DAL,Ben Bentil,31969
 DAL,Quinn Cook,31969
+DAL,Ben Bentil,31969
 DAL,Jameel Warney,20000

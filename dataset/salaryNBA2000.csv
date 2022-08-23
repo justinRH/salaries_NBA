@@ -16,8 +16,8 @@ MIA,Blue Edwards,510000
 MIA,Ed Pinckney,510000
 MIA,Amal McCaskill,485000
 MIA,Anthony Carter,385000
-MIA,Harold Jamison,301875
 MIA,Rodney Buford,301875
+MIA,Harold Jamison,301875
 MIA,Jamie Watson,250000
 MIA,Corey Brewer,100000
 MIA,Mark Davis,100000
@@ -81,10 +81,10 @@ ORL,Ben Wallace,893750
 ORL,Rodrick Rhodes,600000
 ORL,Monty Williams,510000
 ORL,Jeff McInnis,460000
-ORL,Miles Simon,385000
-ORL,Makhtar N'Diaye,385000
-ORL,Chucky Atkins,385000
 ORL,John Amaechi,385000
+ORL,Chucky Atkins,385000
+ORL,Makhtar N'Diaye,385000
+ORL,Miles Simon,385000
 ORL,Dominique Wilkins,250000
 ORL,Earl Boykins,88324
 ORL,Kiwane Garris,61147
@@ -158,8 +158,8 @@ IND,Jeff Foster,857760
 IND,Al Harrington,745800
 IND,LaSalle Thompson,510000
 IND,Mark Pope,460000
-IND,Mate Skelin,385000
 IND,Brent Scott,385000
+IND,Mate Skelin,385000
 IND,Shannon Smith,301875
 IND,Mitchell Butler,150000
 IND,Adrian Caldwell,50000
@@ -206,8 +206,8 @@ DET,Jerome Williams,2550000
 DET,Lindsey Hunter,2350000
 DET,Michael Curry,2000000
 DET,Eric Montross,2000000
-DET,Derek Harper,1100000
 DET,Jud Buechler,1100000
+DET,Derek Harper,1100000
 DET,Don Reid,1000000
 DET,Joe Dumars,510000
 DET,Terry Mills,510000
@@ -278,8 +278,8 @@ CHI,Fred Hoiberg,800000
 CHI,Keith Booth,776880
 CHI,Corey Benjamin,696000
 CHI,Matt Maloney,600000
-CHI,Bruce Bowen,510000
 CHI,B.J. Armstrong,510000
+CHI,Bruce Bowen,510000
 CHI,James Cotton,460000
 CHI,Michael Ruffin,401875
 CHI,Kornel David,175882
@@ -422,11 +422,11 @@ LAL,Derek Fisher,3000000
 LAL,Travis Knight,2800000
 LAL,Ron Harper,2000000
 LAL,A.C. Green,1700000
+LAL,Magic Johnson,1000000
 LAL,Tyronn Lue,809280
 LAL,Devean George,790440
 LAL,Sam Jacobson,721080
 LAL,John Salley,510000
-LAL,Byron Scott,510000
 LAL,Brian Shaw,510000
 LAL,Shea Seals,385000
 LAL,John Celestand,301875
@@ -507,8 +507,8 @@ GSW,Billy Owens,2090000
 GSW,Adonal Foyle,1922520
 GSW,Larry Hughes,1722240
 GSW,Vonteego Cummings,704400
-GSW,Tim Legler,510000
 GSW,Tony Farmer,510000
+GSW,Tim Legler,510000
 GSW,Sam Mack,315000
 GSW,Tim Young,301875
 GSW,Bill Curley,117867

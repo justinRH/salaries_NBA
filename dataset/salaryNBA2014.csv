@@ -101,6 +101,7 @@ CLE,Alonzo Gee,3250000
 CLE,C.J. Miles,2225000
 CLE,Tyler Zeller,1633440
 CLE,Sergey Karasev,1467840
+CLE,Carrick Felix,510000
 DET,Josh Smith,13500000
 DET,Charlie Villanueva,8580000
 DET,Rodney Stuckey,8500000
@@ -113,13 +114,14 @@ DET,Chauncey Billups,2500000
 DET,Andre Drummond,2462400
 DET,Kyle Singler,1045000
 DET,Josh Harrellson,884293
+DET,Tony Mitchell,500000
 MIL,O.J. Mayo,8000000
 MIL,Ersan Ilyasova,7900000
 MIL,Zaza Pachulia,5200000
 MIL,Ekpe Udoh,4469548
 MIL,Luke Ridnour,4320000
-MIL,Gary Neal,3250000
 MIL,Carlos Delfino,3250000
+MIL,Gary Neal,3250000
 MIL,Larry Sanders,3053368
 MIL,Brandon Knight,2793960
 MIL,John Henson,1905360
@@ -127,6 +129,7 @@ MIL,Giannis Antetokounmpo,1792560
 MIL,Viacheslav Kravtsov,1500000
 MIL,Ishmael Smith,951463
 MIL,Khris Middleton,788872
+MIL,Nate Wolters,500000
 MIA,Chris Bosh,19067500
 MIA,LeBron James,19067500
 MIA,Dwyane Wade,18673000
@@ -155,6 +158,7 @@ WAS,Eric Maynor,2016000
 WAS,Chris Singleton,1618680
 WAS,Al Harrington,1399507
 WAS,Garrett Temple,916099
+WAS,Glen Rice,490180
 CHA,Al Jefferson,13500000
 CHA,Ben Gordon,13200000
 CHA,Gerald Henderson,6000000
@@ -182,7 +186,9 @@ ATL,John Jenkins,1258800
 ATL,Jared Cunningham,1208400
 ATL,Shelvin Mack,884293
 ATL,Mike Scott,788872
+ATL,Mike Muscala,161471
 ATL,Jeremy Tyler,100000
+ORL,Gilbert Arenas,22346536
 ORL,Hedo Turkoglu,12000000
 ORL,Jameer Nelson,8600000
 ORL,Arron Afflalo,7312500
@@ -197,8 +203,8 @@ ORL,Tobias Harris,1545840
 ORL,Andrew Nicholson,1482000
 ORL,Ronnie Price,1265977
 ORL,E'Twaun Moore,884293
-ORL,Kyle O'Quinn,788872
 ORL,Doron Lamb,788872
+ORL,Kyle O'Quinn,788872
 OKC,Kevin Durant,17832627
 OKC,Russell Westbrook,14693906
 OKC,Serge Ibaka,12250000
@@ -213,6 +219,7 @@ OKC,Hasheem Thabeet,1200000
 OKC,Ryan Gomes,1186459
 OKC,Andre Roberson,1110840
 OKC,Perry Jones,1082520
+POR,Brandon Roy,17888932
 POR,LaMarcus Aldridge,14128000
 POR,Nicolas Batum,11295250
 POR,Wesley Matthews,6875480
@@ -222,10 +229,11 @@ POR,Damian Lillard,3202920
 POR,Dorell Wright,3000000
 POR,Joel Freeland,2897976
 POR,Mo Williams,2652000
-POR,C.J. McCollum,2316720
+POR,CJ McCollum,2316720
 POR,Meyers Leonard,2222160
 POR,Earl Watson,1399507
 POR,Victor Claver,1330000
+POR,Allen Crabbe,825000
 POR,Will Barton,788872
 MIN,Kevin Love,14693906
 MIN,Nikola Pekovic,12100000
@@ -268,6 +276,7 @@ UTA,Alec Burks,2202000
 UTA,Jeremy Evans,1660257
 UTA,John Lucas,1600000
 UTA,Rudy Gobert,1078800
+UTA,Erik Murphy,490180
 LAC,Chris Paul,18668431
 LAC,Blake Griffin,16441500
 LAC,DeAndre Jordan,10986550
@@ -299,8 +308,8 @@ PHO,Caron Butler,8000000
 PHO,Goran Dragic,7500000
 PHO,Channing Frye,6400000
 PHO,Michael Beasley,4666667
-PHO,Gerald Green,3500000
 PHO,Shannon Brown,3500000
+PHO,Gerald Green,3500000
 PHO,Alex Len,3492720
 PHO,Eric Bledsoe,2626473
 PHO,Markieff Morris,2091840
@@ -308,8 +317,8 @@ PHO,Kendall Marshall,2005560
 PHO,Marcus Morris,1987320
 PHO,Miles Plumlee,1121520
 PHO,Archie Goodwin,1064400
-PHO,P.J. Tucker,884293
 PHO,Malcolm Lee,884293
+PHO,P.J. Tucker,884293
 PHO,Hamed Haddadi,200000
 SAC,Rudy Gay,17888931
 SAC,Marcus Thornton,8050000
@@ -338,6 +347,7 @@ LAL,Nick Young,1106942
 LAL,Jordan Farmar,1106941
 LAL,Wesley Johnson,916099
 LAL,Robert Sacre,788872
+LAL,Ryan Kelly,490180
 SAS,Tony Parker,12500000
 SAS,Tim Duncan,10361446
 SAS,Tiago Splitter,10000000
@@ -367,6 +377,7 @@ HOU,Reggie Williams,947907
 HOU,Chandler Parsons,926500
 HOU,Greg Smith,884293
 HOU,Patrick Beverley,788872
+HOU,Isaiah Canaan,570515
 HOU,Tyler Honeycutt,100000
 MEM,Zach Randolph,17800000
 MEM,Marc Gasol,14860523
@@ -382,6 +393,7 @@ MEM,Mike Miller,1399507
 MEM,Fab Melo,1311240
 MEM,Tony Wroten,1160040
 MEM,Josh Akognon,788872
+MEM,Jamaal Franklin,535000
 DAL,Dirk Nowitzki,22721381
 DAL,Shawn Marion,9316796
 DAL,Monta Ellis,8000000
@@ -393,9 +405,10 @@ DAL,Wayne Ellington,2652000
 DAL,Shane Larkin,1536960
 DAL,Devin Harris,1272279
 DAL,DeJuan Blair,947907
-DAL,Jae Crowder,788872
 DAL,Bernard James,788872
+DAL,Jae Crowder,788872
 DAL,Fab Melo,788872
+DAL,Ricky Ledo,544000
 NOP,Eric Gordon,14283844
 NOP,Tyreke Evans,10300000
 NOP,Jrue Holiday,9213484
@@ -409,3 +422,5 @@ NOP,Anthony Morrow,1027424
 NOP,Lance Thomas,884293
 NOP,Brian Roberts,788872
 NOP,Darius Miller,788872
+NOP,Jeff Withey,490180
+NOP,Grant Jerrett,28834
