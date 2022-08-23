@@ -9,7 +9,9 @@ Next Octuber begin the 2022-23 NBA season. Press has released the Lebrom James s
   <img src="/images/lebron.png" width="350"/>
 </p>
 
-First analysis show salaries evolution of Most Values y best paid players, plot 1 an plot 2 we can see players  and teams salaries behaviors, respectively. How much spend the nba teams in salaries? how much earn a MVP?  how much earn a champion team? Answer can be get from this analysis.  
+First analysis show salaries evolution of most valuable y best paid players, in plot 1 an plot 2 we can see players  and teams salaries behaviors, respectively. How much spend the nba teams in salaries? how much earn a MVP?  how much earn a champion team? Answer can be get from this analysis.  
+
+
 ![first figure](/images/NBA_salary-1.png)
 
 ![second figure](/images/NBA_salary-2.png)
